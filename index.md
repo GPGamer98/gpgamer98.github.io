@@ -1,5 +1,3 @@
-# Hi! I'am GPGamer98
-
 Links:
 - [GitHub](https://github.com/GPGamer98)
 - [Steam](https://steamcommunity.com/id/gp_gamer98)
