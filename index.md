@@ -1,4 +1,4 @@
-# Hi! I'am GPGamer98
+## Hi! I'am GPGamer98
 
 Links:
 - [GitHub](https://github.com/GPGamer98)
