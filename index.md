@@ -1,4 +1,4 @@
-## Welcome to GPGamer98's website!
+Hi! I'am GPGamer98
 
 Links:
 - [GitHub](https://github.com/GPGamer98)
