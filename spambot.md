@@ -7,4 +7,4 @@ permalink: /spambot.html
 [Latest version .py file (1.2)](https://github.com/GPGamer98/spambot/releases/tag/v1.2)
 
 ## Note: You need to have Python and pyautogui installed
-### To install pyautogui in CMD you need to run this command: pip install pyautogui
+### To install pyautogui, in CMD you need to run this command: ''pip install pyautogui''
