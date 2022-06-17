@@ -13,5 +13,5 @@ Skills:
 ### What i've made
 
 I've made:
-- (Latest) [YTDownloader](https://github.com/GPGamer98/YTDownloader)
+- (Latest) [YTDownloader](https://gpgamer98.github.io/ytdownloader.html)
 - [spambot](https://github.com/GPGamer98/spambot)
