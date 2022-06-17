@@ -1,3 +1,6 @@
+---
+permalink: ytdownloader.html
+---
 # YTDownloader
 ## A simple YouTube downloader written in Python
 
