@@ -11,7 +11,4 @@ permalink: /spambot.html
 (none)
 
 ## Note: You need to have Python and pyautogui installed
-### To install pyautogui, in CMD you need to run this command: 
-'''
-pip install pyautogui
-'''
+### To install pyautogui, in CMD you need to run this command: `pip install pyautogui`
