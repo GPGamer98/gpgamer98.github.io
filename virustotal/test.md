@@ -1,4 +1,4 @@
 ---
-permalink: /test.html
+permalink: /virustotal/test.html
 ---
 # hello
