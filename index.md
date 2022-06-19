@@ -21,3 +21,6 @@ I've made:
 
 ### VirusTotal
 [Click here](https://gpgamer98.github.io/virustotal.html) for all of my programs scanned with VirusTotal
+
+### Announcements
+[Click here](https://gpgamer98.github.io/announcements.html) to view all the announcements about my programs
