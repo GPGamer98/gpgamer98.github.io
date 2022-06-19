@@ -7,3 +7,4 @@ title: Announcements
    I'm now working on the **1.4 version** of YTDownloader
    
    I'm trying to make it **really** fast.. it will be published in a few hours...
+   [Click here](https://gpgamer98.github.io/announcements/ytdownloader1.4.html) to view the announcement
