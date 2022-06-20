@@ -1,9 +1,10 @@
 ---
 permalink: /virustotal/ytdownloader.html
 ---
-# YTDownloader VirusTotal
-.py file: [Click here](https://www.virustotal.com/gui/file/0d10accc486de9e77dde4854e725bf4b82aa96a7195d43ad808f3ef4affeda21) or use this link: https://www.virustotal.com/gui/file/0d10accc486de9e77dde4854e725bf4b82aa96a7195d43ad808f3ef4affeda21
+# YTDownloader 1.4 VirusTotal
+.py file: [Click here](https://www.virustotal.com/gui/file/56af055e407e91ec693128d37aaa6c314403ea2563a4445fdb12afd7ee4e885c) or use this link: https://www.virustotal.com/gui/file/56af055e407e91ec693128d37aaa6c314403ea2563a4445fdb12afd7ee4e885c
 
-Setup: [Click here](https://www.virustotal.com/gui/file/404ef31eb26ffc12c7f81c3f95aaada4cbc7e84cda451edee8c0bf3864a4022f) or use this link: https://www.virustotal.com/gui/file/404ef31eb26ffc12c7f81c3f95aaada4cbc7e84cda451edee8c0bf3864a4022f
+Setup: [Click here](https://www.virustotal.com/gui/file/bd76a2812237cb3cd5ac8401666f65b57000cb6125384527d139310c113198b4) or use this link: https://www.virustotal.com/gui/file/bd76a2812237cb3cd5ac8401666f65b57000cb6125384527d139310c113198b4
+Portable: [Click here]() or use this link: 
 
 ### Remember: my programs are all safe, but i will continue to put VirusTotal links.
