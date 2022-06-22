@@ -6,6 +6,9 @@ permalink: /ytdownloader.html
 
 [GitHub](https://github.com/GPGamer98/YTDownloader)
 
+## Important:
+### Make sure to run the program as administrator!
+
 ### Download latest version
 #### 1.4
 - [YTDownloader latest version installer (1.4)](https://github.com/GPGamer98/YTDownloader/releases/tag/v1.4)
